@@ -1,0 +1,269 @@
+{
+    "modalidades": [
+        {
+            "_id": 1,
+            "datetime": "2019-11-01T12:00-0500",
+            "company": {
+                "name": "Selfit Academias",
+                "avatar": "selfit.png"
+            },
+            "likes": 0,
+            "modalidade": {
+                "name": "Aula de Ginástica",
+                "description": "Aula de 1 hora com professor capacitado.",
+                "price": 100.0,
+                "url": "https://www.selfitacademias.com.br/",
+                "blobs": [
+                    {
+                        "type": "image",
+                        "file": "ginastica1.jpg"
+                    },
+                    {
+                        "type": "image",
+                        "file": "ginastica2.jpg"
+                    },
+                    {
+                        "type": "image",
+                        "file": "ginastica3.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "_id": 2,
+            "datetime": "2019-10-01T12:00-0500",
+            "company": {
+                "name": "Selfit Academias",
+                "avatar": "selfit.png"
+            },
+            "likes": 0,
+            "modalidade": {
+                "name": "Musculação",
+                "description": "Acesso a academia para treinos de musculação qualquer dia da semana.",
+                "price": 120.0,
+                "url": "https://www.selfitacademias.com.br/",
+                "blobs": [
+                    {
+                        "type": "image",
+                        "file": "musculacao1.jpg"
+                    },
+                    {
+                        "id": "blob5",
+                        "type": "image",
+                        "file": "musculacao2.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "_id": 3,
+            "datetime": "2019-09-01T12:00-0500",
+            "company": {
+                "name": "Allp Fit Academia",
+                "avatar": "allpfit.png"
+            },
+            "likes": 0,
+            "modalidade": {
+                "name": "Musculação",
+                "description": "Acesso a academia para treinos de musculação qualquer dia da semana.",
+                "price": 800.0,
+                "url": "https://allpfit.com.br/",
+                "blobs": [
+                    {
+                        "type": "image",
+                        "file": "musculacao3.jpg"
+                    },
+                    {
+                        "type": "image",
+                        "file": "musculacao4.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "_id": 4,
+            "datetime": "2019-08-01T12:00-0500",
+            "company": {
+                "name": "Allp Fit Academia",
+                "avatar": "allpfit.png"
+            },
+            "likes": 0,
+            "modalidade": {
+                "name": "Aula de Funcional",
+                "description": "Aula de 1 hora com professor capacitado.",
+                "price": 50.0,
+                "url": "https://allpfit.com.br/",
+                "blobs": [
+                    {
+                        "type": "image",
+                        "file": "funcional1.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "_id": 5,
+            "datetime": "2019-07-01T12:00-0500",
+            "company": {
+                "name": "Selfit Academias",
+                "avatar": "selfit.png"
+            },
+            "likes": 0,
+            "modalidade": {
+                "name": "Spinning",
+                "description": "Aula de 1 hora com professor capacitado.",
+                "price": 50.0,
+                "url": "https://www.selfitacademias.com.br/",
+                "blobs": [
+                    {
+                        "id": "blob9",
+                        "type": "image",
+                        "file": "spinning1.jpg"
+                    },
+                    {
+                        "type": "image",
+                        "file": "spinning2.jpg"
+                    },
+                    {
+                        "type": "image",
+                        "file": "spinning3.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "_id": 6,
+            "datetime": "2019-06-01T12:00-0500",
+            "company": {
+                "name": "Selfit Academias",
+                "avatar": "selfit.png"
+            },
+            "likes": 0,
+            "modalidade": {
+                "name": "Fit Dance",
+                "description": "Aula às quintas e sabádos com professor Eduardo às 10h da manhã.",
+                "price": 100.0,
+                "url": "https://www.selfitacademias.com.br/",
+                "blobs": [
+                    {
+                        "type": "image",
+                        "file": "fitdance1.jpg"
+                    },	
+                    {
+                        "type": "image",
+                        "file": "fitdance2.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "_id": 7,
+            "datetime": "2019-05-01T12:00-0500",
+            "company": {
+                "name": "Ativa Fitness",
+                "avatar": "ativa.jpg"
+            },
+            "likes": 0,
+            "modalidade": {
+                "name": "Aula de Natação",
+                "description": "Aulas de terça a sabádo, das 10h às 16h",
+                "price": 320.0,
+                "url": "https://academiaativafitness.com.br/web/",
+                "blobs": [
+                    {
+                        "type": "image",
+                        "file": "natacao1.jpg"
+                    },
+                    {
+                        "type": "image",
+                        "file": "natacao2.jpg"
+                    },
+                    {
+                        "type": "image",
+                        "file": "natacao3.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "_id": 8,
+            "datetime": "2019-11-01T12:00-0500",
+            "company": {
+                "name": "Ativa Fitness",
+                "avatar": "ativa.jpg"
+            },
+            "likes": 0,
+            "modalidade": {
+                "name": "Musculação",
+                "description": "Acesso a academia para treinos de musculação qualquer dia da semana.",
+                "price": 160.0,
+                "url": "https://academiaativafitness.com.br/web/",
+                "blobs": [
+                    {
+                        "type": "image",
+                        "file": "musculacao2.jpg"
+                    },
+                    {
+                        "type": "image",
+                        "file": "musculacao1.jpg"
+                    },
+                    {
+                        "type": "image",
+                        "file": "musculacao4.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "_id": 9,
+            "datetime": "2019-10-01T12:00-0500",
+            "company": {
+                "name": "Ativa Fitness",
+                "avatar": "ativa.jpg"
+            },
+            "likes": 0,
+            "modalidade": {
+                "name": "Judô",
+                "description": "Turmas abertas para crianças e adultos. Horário matutino e noturno.",
+                "price": 150.0,
+                "url": "https://academiaativafitness.com.br/web/",
+                "blobs": [
+                    {
+                        "type": "image",
+                        "file": "judo1.jpg"
+                    },
+                    {
+                        "id": "blob5",
+                        "type": "image",
+                        "file": "judo2.jpeg"
+                    }
+                ]
+            }
+        },
+        {
+            "_id": 10,
+            "datetime": "2019-09-01T12:00-0500",
+            "company": {
+                "name": "Selfit Academias",
+                "avatar": "selfit.png"
+            },
+            "likes": 0,
+            "modalidade": {
+                "name": "Crossfit",
+                "description": "Turmas maturtinas. Aulas de 1 hora com professor.",
+                "price": 200.0,
+                "url": "https://www.selfitacademias.com.br/",
+                "blobs": [
+                    {
+                        "type": "image",
+                        "file": "crossfit1.jpeg"
+                    },
+                    {
+                        "type": "image",
+                        "file": "crossfit2.jpg"
+                    }
+                ]
+            }
+        }
+    ]
+}
