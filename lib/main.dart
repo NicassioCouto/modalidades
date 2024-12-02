@@ -39,6 +39,7 @@ class _TelaState extends State<Tela> {
         [DeviceOrientation.portraitUp, DeviceOrientation.portraitDown]);
   }
 
+  //tela
   @override
   Widget build(BuildContext context) {
     _exibirComoRetrato();
