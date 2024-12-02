@@ -40,6 +40,7 @@ class _TelaState extends State<Tela> {
   }
 
   //tela
+
   @override
   Widget build(BuildContext context) {
     _exibirComoRetrato();

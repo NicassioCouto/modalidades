@@ -1,4 +1,5 @@
 // ignore_for_file: unnecessary_getters_setters
+//
 
 class Usuario {
   String? _nome;
